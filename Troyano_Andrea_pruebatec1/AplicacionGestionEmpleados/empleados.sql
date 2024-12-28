@@ -1,1 +1,0 @@
-SELECT * FROM empleados_db.empleados;
